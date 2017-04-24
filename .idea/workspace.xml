@@ -1,85 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9d771537-2525-46d4-b316-39c2edfb409b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/home/home.module.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.xml" afterPath="$PROJECT_DIR$/config.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ionic.config.json" afterPath="$PROJECT_DIR$/ionic.config.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/acorn" afterPath="$PROJECT_DIR$/node_modules/.bin/acorn" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/babel" afterPath="$PROJECT_DIR$/node_modules/.bin/babel" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/babel-doctor" afterPath="$PROJECT_DIR$/node_modules/.bin/babel-doctor" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/babel-external-helpers" afterPath="$PROJECT_DIR$/node_modules/.bin/babel-external-helpers" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/babel-node" afterPath="$PROJECT_DIR$/node_modules/.bin/babel-node" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/babili" afterPath="$PROJECT_DIR$/node_modules/.bin/babili" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/babylon" afterPath="$PROJECT_DIR$/node_modules/.bin/babylon" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/browserslist" afterPath="$PROJECT_DIR$/node_modules/.bin/browserslist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/cleancss" afterPath="$PROJECT_DIR$/node_modules/.bin/cleancss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/errno" afterPath="$PROJECT_DIR$/node_modules/.bin/errno" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/esparse" afterPath="$PROJECT_DIR$/node_modules/.bin/esparse" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/esvalidate" afterPath="$PROJECT_DIR$/node_modules/.bin/esvalidate" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/in-install" afterPath="$PROJECT_DIR$/node_modules/.bin/in-install" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/in-publish" afterPath="$PROJECT_DIR$/node_modules/.bin/in-publish" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/ionic-app-scripts" afterPath="$PROJECT_DIR$/node_modules/.bin/ionic-app-scripts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/jsesc" afterPath="$PROJECT_DIR$/node_modules/.bin/jsesc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/json5" afterPath="$PROJECT_DIR$/node_modules/.bin/json5" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/loose-envify" afterPath="$PROJECT_DIR$/node_modules/.bin/loose-envify" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/miller-rabin" afterPath="$PROJECT_DIR$/node_modules/.bin/miller-rabin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/mime" afterPath="$PROJECT_DIR$/node_modules/.bin/mime" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/mkdirp" afterPath="$PROJECT_DIR$/node_modules/.bin/mkdirp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/ng-xi18n" afterPath="$PROJECT_DIR$/node_modules/.bin/ng-xi18n" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/ngc" afterPath="$PROJECT_DIR$/node_modules/.bin/ngc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/node-gyp" afterPath="$PROJECT_DIR$/node_modules/.bin/node-gyp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/node-sass" afterPath="$PROJECT_DIR$/node_modules/.bin/node-sass" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/nopt" afterPath="$PROJECT_DIR$/node_modules/.bin/nopt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/not-in-install" afterPath="$PROJECT_DIR$/node_modules/.bin/not-in-install" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/not-in-publish" afterPath="$PROJECT_DIR$/node_modules/.bin/not-in-publish" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/rimraf" afterPath="$PROJECT_DIR$/node_modules/.bin/rimraf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/rollup" afterPath="$PROJECT_DIR$/node_modules/.bin/rollup" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/sassgraph" afterPath="$PROJECT_DIR$/node_modules/.bin/sassgraph" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/semver" afterPath="$PROJECT_DIR$/node_modules/.bin/semver" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/sha.js" afterPath="$PROJECT_DIR$/node_modules/.bin/sha.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/sshpk-conv" afterPath="$PROJECT_DIR$/node_modules/.bin/sshpk-conv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/sshpk-sign" afterPath="$PROJECT_DIR$/node_modules/.bin/sshpk-sign" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/sshpk-verify" afterPath="$PROJECT_DIR$/node_modules/.bin/sshpk-verify" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/strip-indent" afterPath="$PROJECT_DIR$/node_modules/.bin/strip-indent" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/tsc" afterPath="$PROJECT_DIR$/node_modules/.bin/tsc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/tsickle" afterPath="$PROJECT_DIR$/node_modules/.bin/tsickle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/tslint" afterPath="$PROJECT_DIR$/node_modules/.bin/tslint" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/tsserver" afterPath="$PROJECT_DIR$/node_modules/.bin/tsserver" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/uglifyjs" afterPath="$PROJECT_DIR$/node_modules/.bin/uglifyjs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/user-home" afterPath="$PROJECT_DIR$/node_modules/.bin/user-home" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/uuid" afterPath="$PROJECT_DIR$/node_modules/.bin/uuid" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/webpack" afterPath="$PROJECT_DIR$/node_modules/.bin/webpack" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/which" afterPath="$PROJECT_DIR$/node_modules/.bin/which" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/window-size" afterPath="$PROJECT_DIR$/node_modules/.bin/window-size" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/acorn-dynamic-import/node_modules/.bin/acorn" afterPath="$PROJECT_DIR$/node_modules/acorn-dynamic-import/node_modules/.bin/acorn" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/.bin/har-validator" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/.bin/har-validator" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/.bin/mkdirp" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/.bin/mkdirp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/.bin/node-pre-gyp" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/.bin/node-pre-gyp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/.bin/nopt" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/.bin/nopt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/.bin/rc" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/.bin/rc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/.bin/rimraf" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/.bin/rimraf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/.bin/semver" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/.bin/semver" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/.bin/sshpk-conv" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/.bin/sshpk-conv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/.bin/sshpk-sign" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/.bin/sshpk-sign" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/.bin/sshpk-verify" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/.bin/sshpk-verify" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/.bin/uuid" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/.bin/uuid" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/recast/node_modules/.bin/esparse" afterPath="$PROJECT_DIR$/node_modules/recast/node_modules/.bin/esparse" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/recast/node_modules/.bin/esvalidate" afterPath="$PROJECT_DIR$/node_modules/recast/node_modules/.bin/esvalidate" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/rollup-plugin-commonjs/node_modules/.bin/acorn" afterPath="$PROJECT_DIR$/node_modules/rollup-plugin-commonjs/node_modules/.bin/acorn" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/rollup-plugin-node-globals/node_modules/.bin/acorn" afterPath="$PROJECT_DIR$/node_modules/rollup-plugin-node-globals/node_modules/.bin/acorn" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/webpack/node_modules/.bin/acorn" afterPath="$PROJECT_DIR$/node_modules/webpack/node_modules/.bin/acorn" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcodeproj/project.pbxproj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/fetch.json" afterPath="$PROJECT_DIR$/plugins/fetch.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/home/home.html" afterPath="$PROJECT_DIR$/src/pages/home/home.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/home/home.ts" afterPath="$PROJECT_DIR$/src/pages/home/home.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tslint.json" afterPath="$PROJECT_DIR$/tslint.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/build/main.js" afterPath="$PROJECT_DIR$/www/build/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/build/main.js.map" afterPath="$PROJECT_DIR$/www/build/main.js.map" />
-    </list>
+    <list default="true" id="9d771537-2525-46d4-b316-39c2edfb409b" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -801,12 +723,12 @@
       <workItem from="1492936178957" duration="38000" />
       <workItem from="1492936264183" duration="62000" />
       <workItem from="1492936378610" duration="2788000" />
-      <workItem from="1493061264118" duration="47000" />
+      <workItem from="1493061264118" duration="92000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3039000" />
+    <option name="totallyTimeSpent" value="3084000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="44" y="23" width="1396" height="877" extended-state="6" />
