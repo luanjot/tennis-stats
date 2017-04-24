@@ -14,4 +14,7 @@
     Take a look at the <code>src/pages/</code> directory to add or change tabs,
     update any existing page or create new pages.
   </p>
+  <ion-list>
+    <ion-item *ngFor="let grocery of groceries"><a href="about.html?type={{grocery}}">{{grocery}}</a></ion-item>
+  </ion-list>
 </ion-content>

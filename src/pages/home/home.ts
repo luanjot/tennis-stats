@@ -7,8 +7,23 @@ import { NavController } from 'ionic-angular';
 })
 export class HomePage {
 
-  constructor(public navCtrl: NavController) {
+  groceries: any;
 
+  constructor(public navCtrl: NavController) {
+    this.groceries = [
+      'Bread',
+      'Milk',
+      'Cheese',
+      'Snacks',
+      'Apples',
+      'Bananas',
+      'Peanut Butter',
+      'Chocolate',
+      'Avocada',
+      'Vegemite',
+      'Muffins',
+      'Paper towels'
+    ];
   }
 
 }

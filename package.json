@@ -35,8 +35,8 @@
   },
   "cordovaPlugins": [
     "cordova-plugin-whitelist",
-    "cordova-plugin-statusbar",
     "cordova-plugin-console",
+    "cordova-plugin-statusbar",
     "cordova-plugin-device",
     "cordova-plugin-splashscreen",
     "ionic-plugin-keyboard"
@@ -49,5 +49,5 @@
       "locator": "ios"
     }
   ],
-  "description": "tennis-stats: An Ionic project"
+  "description": "example: An Ionic project"
 }
